@@ -1,0 +1,2 @@
+C:\Users\Cynopos\Source\Repos\RayRRT\OSEP\API Calls From C#\CSharpShellCRunner\obj\Debug\CSharpShellCRunner.csprojAssemblyReference.cache
+C:\Users\Cynopos\Source\Repos\RayRRT\OSEP\API Calls From C#\CSharpShellCRunner\obj\Debug\CSharpShellCRunner.csproj.CoreCompileInputs.cache

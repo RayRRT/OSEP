@@ -1,0 +1,7 @@
+C:\Users\Cynopos\Source\Repos\RayRRT\OSEP\API Calls From C#\PinvokeMessageBoxApiCall\bin\Debug\PinvokeMessageBoxApiCall.exe.config
+C:\Users\Cynopos\Source\Repos\RayRRT\OSEP\API Calls From C#\PinvokeMessageBoxApiCall\bin\Debug\PinvokeMessageBoxApiCall.exe
+C:\Users\Cynopos\Source\Repos\RayRRT\OSEP\API Calls From C#\PinvokeMessageBoxApiCall\bin\Debug\PinvokeMessageBoxApiCall.pdb
+C:\Users\Cynopos\Source\Repos\RayRRT\OSEP\API Calls From C#\PinvokeMessageBoxApiCall\obj\Debug\PinvokeMessageBoxApiCall.csprojAssemblyReference.cache
+C:\Users\Cynopos\Source\Repos\RayRRT\OSEP\API Calls From C#\PinvokeMessageBoxApiCall\obj\Debug\PinvokeMessageBoxApiCall.csproj.CoreCompileInputs.cache
+C:\Users\Cynopos\Source\Repos\RayRRT\OSEP\API Calls From C#\PinvokeMessageBoxApiCall\obj\Debug\PinvokeMessageBoxApiCall.exe
+C:\Users\Cynopos\Source\Repos\RayRRT\OSEP\API Calls From C#\PinvokeMessageBoxApiCall\obj\Debug\PinvokeMessageBoxApiCall.pdb
